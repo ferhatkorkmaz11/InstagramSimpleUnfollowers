@@ -21,7 +21,7 @@ An alternative way to run the program is to press F5 while you are editing the .
 If you get that exception by the program, you should review your username and password.
 
 ### Login error: Two Factor Authentication.
-If you get that expection by the program, you should turn off two-factor authentication future on Instagram. You can do this by following the steps:
+If you get that expection by the program, you should turn off two-factor authentication feature on Instagram. You can do this by following the steps:
 > Instagram -> Setting -> Security -> Two-Factor Authentication
 
 Even though this does not look safe, security code that will be sent to you by Instagram, cannot be accessed via the Python console interface. 
